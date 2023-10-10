@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "target": "es2020", // The target JavaScript version
+      "module": "commonjs", // The module format
+      "strict": true, // Enable strict type checking
+      "outDir": "./dist", // The output directory for compiled JavaScript files
+    },
+    "include": ["./src/**/*.ts", "index.ts"], // The files to include in the compilation
+    "exclude": ["node_modules/**/*"] // The files to exclude from the compilation
+  }

@@ -1,0 +1,16 @@
+{
+  "name": "integ-pId",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@0xpolygonid/js-sdk": "^1.1.0",
+    "ts-node": "^10.9.1"
+  }
+}
